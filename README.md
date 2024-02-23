@@ -8,3 +8,18 @@
 </div>
 
 # PFE-SOLIDWORKS-MID-PCB
+
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(1).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(2).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(3).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(4).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(5).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(6).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(7).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(8).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(9).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(10).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(11).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(12).png" width="400" alt="starz Electonics">
+<img src="https://raw.githubusercontent.com/RAYEN311/PFE-SOLIDWORKS/main/capture-SW/MID-PCB%20(13).png" width="400" alt="starz Electonics">
+
