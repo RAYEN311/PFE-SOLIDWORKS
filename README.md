@@ -4,4 +4,4 @@
 <img src="https://raw.githubusercontent.com/RAYEN311/Starz-Electonics-BMS-App/main/assets/snack-icon.png" width="70" alt="starz Electonics">
 </div>
 
-# Rayen Ben brahim/ starz Electonics 
+# Rayen Ben brahim/ Starz Electonics 
